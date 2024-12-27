@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(238, 136, 153);
+}
+
+
+.h1{
+    color: white;
+    background-color: rgb(40, 122, 132);
+    width: 1450px;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+   
+}
+.ded{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.ped{
+    color: white;
+    background: rgb(12, 101, 115);
+    width: 450px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.med{
+    color: white;
+    background-color: rgb(151, 49, 66);
+    width: 980px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.bola{
+margin-top: 250px;
+    width: 280px;
+    height: 280px;
+background-color: grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
